@@ -3,6 +3,10 @@
 
  ⚡ Lightweight embedded SQL database engine written in pure Dart
 
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/49b43b6c-63d9-4e7a-8f91-60f6a625d93e" />
+
+
+
 [![pub.dev](https://img.shields.io/pub/v/nebula_db.svg?style=flat-square)](https://pub.dev/packages/nebula_db)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Dart](https://img.shields.io/badge/dart-%3E%3D3.0.0-0175C2?style=flat-square)](https://dart.dev)
